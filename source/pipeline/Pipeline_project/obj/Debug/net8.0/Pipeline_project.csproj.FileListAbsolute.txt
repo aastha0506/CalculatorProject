@@ -1,0 +1,15 @@
+C:\Users\AasthaBajaj\source\pipeline\Pipeline_project\bin\Debug\net8.0\Pipeline_project.exe
+C:\Users\AasthaBajaj\source\pipeline\Pipeline_project\bin\Debug\net8.0\Pipeline_project.deps.json
+C:\Users\AasthaBajaj\source\pipeline\Pipeline_project\bin\Debug\net8.0\Pipeline_project.runtimeconfig.json
+C:\Users\AasthaBajaj\source\pipeline\Pipeline_project\bin\Debug\net8.0\Pipeline_project.dll
+C:\Users\AasthaBajaj\source\pipeline\Pipeline_project\bin\Debug\net8.0\Pipeline_project.pdb
+C:\Users\AasthaBajaj\source\pipeline\Pipeline_project\obj\Debug\net8.0\Pipeline_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AasthaBajaj\source\pipeline\Pipeline_project\obj\Debug\net8.0\Pipeline_project.AssemblyInfoInputs.cache
+C:\Users\AasthaBajaj\source\pipeline\Pipeline_project\obj\Debug\net8.0\Pipeline_project.AssemblyInfo.cs
+C:\Users\AasthaBajaj\source\pipeline\Pipeline_project\obj\Debug\net8.0\Pipeline_project.csproj.CoreCompileInputs.cache
+C:\Users\AasthaBajaj\source\pipeline\Pipeline_project\obj\Debug\net8.0\Pipeline_project.sourcelink.json
+C:\Users\AasthaBajaj\source\pipeline\Pipeline_project\obj\Debug\net8.0\Pipeline_project.dll
+C:\Users\AasthaBajaj\source\pipeline\Pipeline_project\obj\Debug\net8.0\refint\Pipeline_project.dll
+C:\Users\AasthaBajaj\source\pipeline\Pipeline_project\obj\Debug\net8.0\Pipeline_project.pdb
+C:\Users\AasthaBajaj\source\pipeline\Pipeline_project\obj\Debug\net8.0\Pipeline_project.genruntimeconfig.cache
+C:\Users\AasthaBajaj\source\pipeline\Pipeline_project\obj\Debug\net8.0\ref\Pipeline_project.dll
